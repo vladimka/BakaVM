@@ -1,0 +1,4 @@
+push 1
+add 12
+sub 3
+print

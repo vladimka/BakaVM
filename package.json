@@ -1,0 +1,20 @@
+{
+  "name": "bakavm",
+  "version": "0.0.1",
+  "description": "Simplest assembler in bytecode and virtual machine for it",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [
+    "vm",
+    "virtual",
+    "assembler",
+    "machine"
+  ],
+  "author": "vladimka",
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^16.2.0"
+  }
+}

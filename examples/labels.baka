@@ -1,0 +1,13 @@
+push 1
+
+main:
+add 1
+test 5
+isp
+jit #end
+dsp
+jmp #main
+
+end:
+dsp
+print
